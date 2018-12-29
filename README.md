@@ -14,5 +14,5 @@ VS2017，C++。
 
 # 测试数据
 
-colordata.txt为源RGB数据
-colordata_unsign.txt为目标无符号整数数据
+colordata.txt为源RGB数据。
+colordata_unsign.txt为目标无符号整数数据。
